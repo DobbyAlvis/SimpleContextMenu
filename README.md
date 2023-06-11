@@ -6,7 +6,7 @@ The ContextMenu has a modern disgn, so let's get on with modifying the addon.
 
 If you want to modify the ContextMenu, you'll find all the help you need here: 
 
--For the context menu to work when you make changes, you need to create files in the "addons" file in the following order: garrysmod --> addons --> [Name of addon file] --> lua --> autorun --> client --> cmenu.lua 
+-For the context menu to work when you make changes, you need to create files in the "addons" file in the following order: [Name of addon file] --> lua --> autorun --> client --> cmenu.lua 
 
 -To change the ContextMenu title, go to line (85)
 
